@@ -19,3 +19,17 @@ This is a simple RESTful API for a blogging platform, built using Express.js for
 ### Prerequisites
 
 - Node.js installed on your machine
+- MongoDB installed or access to a MongoDB cloud instance
+- Postman or a similar tool for testing API endpoints
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/blogging-platform-api.git
+   cd blogging-platform-api
+
+   
+2  **Install dependencies:**
+   ```bash
+    npm install
