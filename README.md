@@ -26,7 +26,7 @@ This is a simple RESTful API for a blogging platform, built using Express.js for
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/blogging-platform-api.git
+   git clone https://github.com/adityap5/blog-API.git
    cd blogging-platform-api
    
 2  **Install dependencies:**
